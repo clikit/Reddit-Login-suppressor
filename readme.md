@@ -1,0 +1,1 @@
+GreaseMonkey script for suppressing the login popup in Reddit. Tested on Firefox.
